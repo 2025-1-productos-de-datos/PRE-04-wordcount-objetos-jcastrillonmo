@@ -1,8 +1,8 @@
 from homework.src._internals.count_words import CountWordsMixin
 from homework.src._internals.parse_args import ParseArgsMixin
-from homework.src._internals.Preprocess_lines import PreprocessLinesMixin
-from homework.src._internals.Read_all_lines import ReadAllLinesMixin
-from homework.src._internals.Split_Into_words import SplitIntoWordsMixin
+from homework.src._internals.preprocess_lines import PreprocessLinesMixin
+from homework.src._internals.read_all_lines import ReadAllLinesMixin
+from homework.src._internals.split_Into_words import SplitIntoWordsMixin
 from homework.src._internals.write_word_counts import WriteWordCountsMixin
 
 
